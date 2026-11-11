@@ -9,6 +9,7 @@ I run Ravenburst, and I made Perchlight.
 - **[Perchlight](https://github.com/matpitts13/perchlight)**: a free desktop app (Windows, macOS, Linux) for managing Cloudflare Workers KV and D1, with a no-code screen builder. [Website](https://perchlight.ravenburst.com)
 - **[perchlight-list](https://github.com/matpitts13/perchlight-list)**: a free, self-hosted mailing list on Cloudflare Workers + D1, with announcements through Resend, Amazon SES, Mailgun or Postmark.
 - **[perchlight-updates](https://github.com/matpitts13/perchlight-updates)**: a free, self-hosted update server for Electron and Tauri apps on Cloudflare: release channels, gradual rollouts, pulling a bad release, private beta feeds and download counts.
+- **[perchlight-guard](https://github.com/matpitts13/perchlight-guard)**: a free, self-hosted Cloudflare Worker that warns you by email or webhook at 80% and 100% of every Cloudflare free-plan limit, and of GitHub Actions' free allowance.
 
 ## What I work with
 
