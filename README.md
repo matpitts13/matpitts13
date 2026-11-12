@@ -12,6 +12,8 @@ I run Ravenburst, and I made Perchlight.
 - **[perchlight-guard](https://github.com/matpitts13/perchlight-guard)**: a free, self-hosted Cloudflare Worker that warns you by email or webhook at 80% and 100% of every Cloudflare free-plan limit, and of GitHub Actions' free allowance.
 - **[perchlight-crashes](https://github.com/matpitts13/perchlight-crashes)**: free, self-hosted crash and error reports for desktop apps and games on Cloudflare; Electron's crash reporter and Sentry SDKs send to it unchanged.
 - **[perchlight-forms](https://github.com/matpitts13/perchlight-forms)**: a free, self-hosted backend for website forms on Cloudflare, with spam filtering, file uploads and email or webhook alerts.
+- **[perchlight-booking](https://github.com/matpitts13/perchlight-booking)**: a free, self-hosted booking page on Cloudflare that reads busy times from your own calendar, never double-books, and sends calendar invites.
+- **[perchlight-status](https://github.com/matpitts13/perchlight-status)**: free, self-hosted uptime checks, a public status page, and domain and certificate expiry warnings on Cloudflare.
 
 ## What I work with
 
