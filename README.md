@@ -15,6 +15,11 @@ I run Ravenburst, and I made Perchlight.
 - **[perchlight-booking](https://github.com/matpitts13/perchlight-booking)**: a free, self-hosted booking page on Cloudflare that reads busy times from your own calendar, never double-books, and sends calendar invites.
 - **[perchlight-status](https://github.com/matpitts13/perchlight-status)**: free, self-hosted uptime checks, a public status page, and domain and certificate expiry warnings on Cloudflare.
 - **[perchlight-hooks](https://github.com/matpitts13/perchlight-hooks)**: a free, self-hosted webhook inspector, scheduled jobs and heartbeat monitors on Cloudflare.
+- **[perchlight-play](https://github.com/matpitts13/perchlight-play)**: free, self-hosted leaderboards, cloud saves and remote config for games.
+- **[perchlight-privacy](https://github.com/matpitts13/perchlight-privacy)**: a free, self-hosted privacy checker for your own websites.
+- **[perchlight-keys](https://github.com/matpitts13/perchlight-keys)**: free, self-hosted software license keys with offline checks.
+- **[perchlight-ask](https://github.com/matpitts13/perchlight-ask)**: a free, self-hosted ask-the-docs widget and AI support inbox drafts.
+- **[perchlight-beta](https://github.com/matpitts13/perchlight-beta)**: a free, self-hosted private beta and advance-reader portal.
 
 ## What I work with
 
